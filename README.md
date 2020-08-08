@@ -1,4 +1,4 @@
-![Head](headyarelosa.jpg)
+![Header](headyarelosa.jpg)
 ### Aqui pongo algunas cosas como práctica.👋:smiley:
 Bienvenido y eres libre de dar feedback. Lo estaré esperando.
 
