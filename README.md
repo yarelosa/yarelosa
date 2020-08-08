@@ -1,4 +1,4 @@
-![Header](yarelosa/headyarelosa.jpg)
+![Header](https://github.com/yarelosa/yarelosa/blob/b8d64529e8131518d0a188878127b787fa871f71/headyarelosa.jpg?raw=true)
 ### Aqui pongo algunas cosas como práctica.👋:smiley:
 Bienvenido y eres libre de dar feedback. Lo estaré esperando.
 
