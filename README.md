@@ -6,7 +6,6 @@ Soy ingeniera en ciencias de la computación con enfoque a tecnologías frontend
 
 Mis contactos:
 
-- 📫 yareli.ramosfr@gmail.com
 - :earth_americas: FB: @yarelosah
 - :art: Insta: @bubbleart.10
 - :framed_picture: Behance: yareliramos
