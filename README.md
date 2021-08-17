@@ -10,7 +10,7 @@ Mis contactos:
 - :art: Insta: @[bubbleart.10](https://www.instagram.com/bubbleart.10/)
 - :framed_picture: Behance: [yareliramos](https://www.behance.net/yareliramos)
 - :writing_hand:Medium: @[yareramos](https://medium.com/@yareramos)
-
+- 💬:Twitter: @[yarelosa](https://twitter.com/yarelosa)
 <!--
 **yarelosa/yarelosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
