@@ -2,12 +2,11 @@
 ### Aqui pongo algunas cosas como práctica.👋:smiley:
 Bienvenido y eres libre de dar feedback. Lo estaré esperando.
 
-Soy ingeniera en ciencias de la computación con enfoque a tecnologías frontend y me apasionan los temas relacionados al diseño, me gusta trabajar en actividades creativas y me resulta fascinante el tema del User Experience. Puedes ver un poco de lo que escribo en medium, un poco de mis ilustraciones en Behance y en instagram. Búscame y compartámos conocimiento.⚡
+Soy ingeniera en ciencias de la computación con enfoque a tecnologías frontend y me apasionan los temas relacionados al diseño, me gusta trabajar en actividades creativas y me resulta fascinante el tema del User Experience. Búscame y compartámos conocimiento.⚡
 
 Mis contactos:
 
 - :earth_americas: FB: @[yarelosah](https://www.facebook.com/yarelosah)
-- :art: Insta: @[bubbleart.10](https://www.instagram.com/bubbleart.10/)
 - :framed_picture: Behance: [yareliramos](https://www.behance.net/yareliramos)
 - :writing_hand:Medium: @[yareramos](https://medium.com/@yareramos)
 - 💬:Twitter: @[yarelosa](https://twitter.com/yarelosa)
