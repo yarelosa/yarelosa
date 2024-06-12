@@ -6,7 +6,6 @@ Soy ingeniera en ciencias de la computación con enfoque a tecnologías frontend
 
 Mis contactos:
 
-- :earth_americas: FB: @[yarelosah](https://www.facebook.com/yarelosah)
 - :framed_picture: Behance: [yareliramos](https://www.behance.net/yareliramos)
 - :writing_hand:Medium: @[yareramos](https://medium.com/@yareramos)
 - 💬:Twitter: @[yarelosa](https://twitter.com/yarelosa)
